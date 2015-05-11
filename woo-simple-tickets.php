@@ -14,7 +14,7 @@
  * Plugin Name: Woo Simple Tickets
  * Plugin URI:  http://buildawebdoctor.com
  * Description: Sell simple tickts as virtual products in Woo
- * Version:     1.0.0
+ * Version:     1.0.2
  * Author:      vimes1984
  * Author URI:  http://buildawebdoctor.com
  * Text Domain: woo-simple-tickets-locale
