@@ -12,7 +12,12 @@ Sell simple tickts as virtual products in Woo
 
 == Description ==
 
-Sell simple tickts as virtual products in Woo (Longer description here)
+All issues to be tracked via github please:
+https://github.com/vimes1984/woocommerce_simple_tickets/issues
+
+This is a plugin designed to sell simple event tickets no frills.
+Just set up a blank pdf set the contents and a ticket with a unique id will be mailed to the customer upon purchase.
+
 
 == Installation ==
 
@@ -22,11 +27,7 @@ Sell simple tickts as virtual products in Woo (Longer description here)
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets
-directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png`
-(or jpg, jpeg, gif).
-2. This is the second screen shot
+
 
 == Changelog ==
 
