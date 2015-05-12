@@ -1,4 +1,4 @@
-=== woo-simple-tickets ===
+=== Woocommerce Simple Tickets ===
 Contributors: vimes1984
 Donate link: http://buildawebdoctor.com
 Tags:  tickets, woocommerce
