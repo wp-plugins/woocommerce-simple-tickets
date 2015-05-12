@@ -4,7 +4,7 @@ Donate link: http://buildawebdoctor.com
 Tags: comments, spam
 Requires at least: 3.5.1
 Tested up to: 3.6
-Stable tag: 1.0.0
+Stable tag: 1.0.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -30,5 +30,7 @@ directory take precedence. For example, `/assets/screenshot-1.png` would win ove
 
 == Changelog ==
 
+= 1.0.5 =
+* Initial Commit
 = 1.0 =
 * Initial Commit
