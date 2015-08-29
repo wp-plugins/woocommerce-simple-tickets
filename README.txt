@@ -1,10 +1,10 @@
-=== woo-simple-tickets ===
+=== Woocommerce Simple Tickets ===
 Contributors: vimes1984
 Donate link: http://buildawebdoctor.com
-Tags: comments, spam
+Tags:  tickets, woocommerce
 Requires at least: 3.5.1
-Tested up to: 3.6
-Stable tag: 1.0.0
+Tested up to: 4.2.2
+Stable tag: 1.0.10+
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,13 +12,23 @@ Sell simple tickts as virtual products in Woo
 
 == Description ==
 
-Sell simple tickts as virtual products in Woo (Longer description here)
+This is a plugin designed to sell simple event tickets no frills.
 
+All issues to be tracked via github please:
+
+https://github.com/vimes1984/woocommerce_simple_tickets/issues
+
+Just set up a blank pdf set the contents and a ticket with a unique id will be mailed to the customer upon purchase.
 == Installation ==
 
-1. Upload `` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the "Plugins" menu in WordPress
-1. Place `<?php do_action("woo-simple-tickets_hook"); ?>` in your templates
+To set up a ticket you need to:
+
+1. install the plugin
+2. change the product type to simple ticket/virtual / downloadable
+3. upload a blank pdf.
+4. add text into the woo ticket tab on your chosen product and hit save ( be carefull not to fill the whole blank ticket).
+5. Upon purchase the ticket will recive a unique id which if i remeber correctly is a combination of sku+variationid+orderid+1
+6. be happy and shoot me a message if your having trouble!
 
 == Screenshots ==
 
@@ -30,5 +40,7 @@ directory take precedence. For example, `/assets/screenshot-1.png` would win ove
 
 == Changelog ==
 
+= 1.0.5 =
+* Initial Commit
 = 1.0 =
 * Initial Commit
